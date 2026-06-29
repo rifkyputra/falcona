@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "lastBuilt": "2026-06-29T21:36:19.114Z",
+  "skills": {
+    "grill-with-docs": {
+      "name": "grill-with-docs",
+      "description": "Grilling session that challenges your plan against the existing domain model, sharpens terminology, and updates documentation (CONTEXT.md, ADRs) inline as decisions crystallise. Use when user wants to stress-test a plan against their project's language and documented decisions.",
+      "filePath": "/Users/rifkyputra/.pi/agent/skills/grill-with-docs/SKILL.md",
+      "baseDir": "/Users/rifkyputra/.pi/agent/skills/grill-with-docs",
+      "scope": "user",
+      "hash": "3e35025119ba03efe7983dfdec3c8b96918142e3978512f3c2bf66d428310c7e",
+      "compactRules": [],
+      "tokensApprox": 0,
+      "exceedsBudget": false
+    },
+    "patungin-project-provider": {
+      "name": "patungin-project-provider",
+      "description": "Install, uninstall, validate, or inspect Patungin provider support for a specific Pi project using project-local .pi resources. Use when enabling Patungin in one repository without modifying global Pi provider configuration.",
+      "filePath": "/Users/rifkyputra/.pi/agent/skills/patungin-project-provider/SKILL.md",
+      "baseDir": "/Users/rifkyputra/.pi/agent/skills/patungin-project-provider",
+      "scope": "user",
+      "hash": "b2cd6610cef2f4f011a995face1bb2dc585b0a04b1025f9d2dbdf1bd7ecf420e",
+      "compactRules": [],
+      "tokensApprox": 0,
+      "exceedsBudget": false
+    }
+  },
+  "diagnostics": [
+    "pi-loader: skill path does not exist"
+  ]
+}
